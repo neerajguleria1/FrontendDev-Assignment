@@ -16,3 +16,20 @@ The application is composed of 3 main parts:
 All shared state (elements, selection, updates) is handled via the `BuilderContext` using React's Context API.
 
 ### Component Structure:
+src/
+├── components/
+│ ├── Canvas.js
+│ ├── ElementPalette.jsx
+│ └── PropertyEditor.jsx
+├── context/
+│ └── BuilderContext.jsx
+├── styles/
+│ └── app.css 
+└── App.jsx
+└── main.jsx
+
+## 🚀 How It Works
+- Click any element in the palette to add it to the canvas.
+- Click an element on the canvas to select it.
+- Modify the selected element’s properties using the right sidebar.
+- Elements can be visually rearranged on the canvas.
