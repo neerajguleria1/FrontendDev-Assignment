@@ -33,3 +33,11 @@ src/
 - Click an element on the canvas to select it.
 - Modify the selected element’s properties using the right sidebar.
 - Elements can be visually rearranged on the canvas.
+- 
+## 🛠️ Installation & Setup
+Clone the repository and run locally:
+```bash
+git clone https://github.com/neerajguleria1/SoftSell-Website
+npm install
+npm run dev
+**⚠️ Make sure Node.js and npm are installed on your system.
