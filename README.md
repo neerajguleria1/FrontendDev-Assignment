@@ -39,4 +39,5 @@ Clone the repository and run locally:
 ```bash
 npm install
 npm run dev
+enter o for open 
 **⚠️ Make sure Node.js and npm are installed on your system.
