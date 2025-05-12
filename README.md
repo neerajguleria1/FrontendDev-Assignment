@@ -6,6 +6,9 @@
 - **nanoid** – For generating unique element IDs
 - **React Context API** – To manage shared state (elements, selection, updates)
 
+  ## 🚀 Live Preview
+
+
 ##  Architecture
 The application is composed of 3 main parts:
 1. **Element Palette** – Sidebar with buttons to add Text, Image, and Button elements.
